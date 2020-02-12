@@ -1,4 +1,4 @@
-# flutter_natwork-_with_beer_api
+# flutter_network-_with_beer_api
 A simple demostration of getting data from an api(https://api.punkapi.com/v2/beers) and displaying it in a <b>ListView.builder()</b>.It aslo shows how to pass
 data to a new
 page on navigation using <b>onTap()</b>. The app also shows how to implement a <b>navigation drawer</b> and a <b>custom awesome Appbar</b>.
